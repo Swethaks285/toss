@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  background-image: linear-gradient(#e2a139, #f9d423);
+  height: 100vh;
+  justify-content: center;
+}
+
+.bg-ins {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  height: 80vh;
+  width: 50vh;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.head {
+  color: #a35200;
+}
+.wid {
+  width: 300px;
+  height: 300px;
+  align-self: center;
+}
+
+.btn {
+  background-color: #f9d423;
+  color: #a35200;
+  border: 0px;
+  border-radius: 10px;
+  width: 120px;
+  height: 50px;
+  margin-top: 20px;
+  align-self: center;
+}
+
+.p1 {
+  color: #334155;
+  font-weight: bold;
+}
+.p2 {
+  display: flex;
+  justify-content: space-around;
+  color: #475569;
+}
